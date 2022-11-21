@@ -1,4 +1,5 @@
 golden = " nice "
+golden = " nice "
 
 if golden == "nice":
     print("cooll")
