@@ -1,4 +1,1 @@
-golden = " nice "
-
-if golden == "nice":
-    print("cooll")
+print('I am a senior developer')
